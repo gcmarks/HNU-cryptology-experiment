@@ -1,0 +1,19 @@
+[
+   
+    {
+        "test[0x0bded287]": {
+            "username": "test",
+            "email": "test",
+            "public_key": "-----BEGIN RSA PUBLIC KEY-----\nMIGJAoGBAJWIyr5QSIz3uUPX3HjenzLhqx1B4plYnDI4B/ZHWfMJRA2uY13gule0\n3YsasQItQihA0gfis7gaPeMCL8Ywp4wtitiEJa5ThMOSAXsF1TEDViJrfeMPmHKZ\nWi2gxlocjcI2Fc010TOdzsIdB/2sPCFbeExMC/dw5pCmJbML3tKHAgMBAAE=\n-----END RSA PUBLIC KEY-----\n",
+            "public_key_ID": "90a625b30bded287"
+        }
+    },
+    {
+        "tests[0xd124f745]": {
+            "username": "tests",
+            "email": "tests",
+            "public_key": "-----BEGIN RSA PUBLIC KEY-----\nMIGJAoGBAIg0RZHlec1MtUxcFPijrt5+2QXBAshDynHo8Z4zqfkwUm3XGqJiYSJp\nui1AbkzvDmbDnU9nLKwCoSVJrOUrx9DwQv8XAfj6GRAFeJdJIejY0mTzdEIFPjNL\nrNqbKZW+NCvKnmpbYoJ+LDvvGWsz+V3wQLhSkmIIUp7CTGjRJPdFAgMBAAE=\n-----END RSA PUBLIC KEY-----\n",
+            "public_key_ID": "9ec24c68d124f745"
+        }
+    }
+]
